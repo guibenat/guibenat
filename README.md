@@ -52,5 +52,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
 
 ### 📊 Estatisticas
 
-[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=guibenat&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guibenat&theme=tokyonight)](https://git.io/streak-stats)
