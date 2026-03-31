@@ -1,8 +1,8 @@
 # ☕ Benatte
 
-** `Desenvolvedor Back-end` **
+ `Desenvolvedor Back-end` 
 
-Me chamo Guilherme Benatte, tenho 18 anos e estou iniciando minha carreira como programador, conclui meu ensino médio na etec MCM, com técnico em informática, atualmente estou cursando um ensino especializado em desenvolvimento back-end java pelo senai, sou apaixonado por técnologia e registro tudo no meu perfil do instagram "([benasdev](https://www.instagram.com/benas_dev/))", onded resgistro minha trajetória na carreira tech.
+Me chamo Guilherme Benatte, tenho 18 anos e estou iniciando minha carreira como programador, conclui meu ensino médio na etec MCM, com técnico em informática, atualmente estou cursando um ensino especializado em desenvolvimento back-end java pelo senai, sou apaixonado por tecnologia e registro tudo no meu perfil do instagram "([benasdev](https://www.instagram.com/benas_dev/))", onde resgistro minha trajetória na carreira tech.
 
 ###  🤖Linguagens e Tecnologias
 
