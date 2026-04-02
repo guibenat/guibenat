@@ -54,12 +54,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
 ### 📊 Estatisticas
 
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    
-    <img src="URL_DO_SEU_CARD_DE_ESTATISTICAS" height="170px" />
-
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100" />
-
-  </div>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=guibenat&show_icons=true&theme=dracula" height="170" />
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="120" height="120" />
+      </td>
+    </tr>
+  </table>
 </div>
     
