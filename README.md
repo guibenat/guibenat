@@ -53,16 +53,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
 
 ### 📊 Estatisticas
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/streak-stats/?user=guibenat&theme=dark" height="170" />
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="150" height="150" />
-      </td>
-    </tr>
-  </table>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guibenat&show_icons=true&theme=tokyonight)
     
