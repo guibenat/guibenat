@@ -53,13 +53,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
 
 ### 📊 Estatisticas
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guibenat&theme=tokyonight)](https://git.io/streak-stats)
-
-<img
-align="left"
-alt="Java"
-title="Java"
-width="30px"
-style="padding-right: 100px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&..." alt="Estatísticas do GitHub" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="150" height="150"/>
+    </td>
+  </tr>
+</table>
