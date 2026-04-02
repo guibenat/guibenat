@@ -50,6 +50,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
 <br/>
 <br/>
 
+
 ### 📊 Estatisticas
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guibenat&theme=tokyonight)](https://git.io/streak-stats)
+
+<img
+align="left"
+alt="Java"
+title="Java"
+width="30px"
+style="padding-right: 100px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
