@@ -53,13 +53,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
 
 ### 📊 Estatisticas
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&..." alt="Estatísticas do GitHub" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="150" height="150"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&..." alt="Estatísticas do GitHub" />
+    
