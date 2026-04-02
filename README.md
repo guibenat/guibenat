@@ -56,11 +56,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=guibenat&show_icons=true&theme=dracula" height="170" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/streak-stats/?user=guibenat&theme=tokyonight" height="170" />
       </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="120" height="120" />
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="150" height="150" />
       </td>
     </tr>
   </table>
