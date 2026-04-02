@@ -53,5 +53,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
 
 ### 📊 Estatisticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=guibenat&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guibenat&layout=compact&theme=tokyonight)
     
