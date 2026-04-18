@@ -53,5 +53,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
 
 ### 📊 Estatisticas
 
-![GitHub Streak](https://streak-stats.demolab.com?user=guibenat&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=guibenat&theme=dark)
     
