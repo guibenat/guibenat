@@ -18,8 +18,10 @@ Me chamo Guilherme Benatte, tenho 18 anos e estou iniciando minha carreira como 
 ### 📊 Estatisticas
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guibenat&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibenat&layout=compact&theme=synthwave" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guibenat&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibenat&layout=compact&theme=material-palenight" />
 </div>
+<br>
+<br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=guibenat&theme=synthwave)
+![GitHub Streak](https://streak-stats.demolab.com?user=guibenat&theme=material-palenight)
