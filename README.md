@@ -4,7 +4,7 @@
 
 Me chamo Guilherme Benatte, tenho 18 anos e estou iniciando minha carreira como programador, conclui meu ensino médio na etec MCM, com técnico em informática, atualmente estou cursando um ensino especializado em desenvolvimento back-end java pelo senai, sou apaixonado por tecnologia e registro tudo no meu perfil do instagram "([benasdev](https://www.instagram.com/benas_dev/))", onde resgistro minha trajetória na carreira tech.
 
-###  🤖Linguagens e Tecnologias
+###  🤖 Linguagens e Tecnologias
 
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="Spring" title="Spring" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
@@ -15,14 +15,11 @@ Me chamo Guilherme Benatte, tenho 18 anos e estou iniciando minha carreira como 
 <br/>
 <br/>
 
-### 📊 Estatisticas
+### 📊 Estatísticas
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guibenat&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibenat&layout=compact&theme=material-palenight" />
- ![GitHub Streak](https://streak-stats.demolab.com?user=guibenat&theme=material-palenight)
+  <img height="180em" src="https://streak-stats.demolab.com?user=guibenat&theme=material-palenight" />
 </div>
-<br>
-<br>
-
 
