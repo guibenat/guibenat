@@ -6,52 +6,20 @@ Me chamo Guilherme Benatte, tenho 18 anos e estou iniciando minha carreira como 
 
 ###  🤖Linguagens e Tecnologias
 
-<img
-align="left"
-alt="Java"
-title="Java"
-width="30px"
-style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img
-align="left"
-alt="Spring"
-title="Spring"
-width="30px"
-style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
-/>
-<img
-align="left"
-alt="MySql"
-title="MySql"
-width="30px"
-style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
-<img
-align="left"
-alt="React"
-title="React"
-width="30px"
-style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img
-align="left"
-alt="TailwindCss"
-title="TailwindCss"
-width="30px"
-style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/>
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Spring" title="Spring" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+<img align="left" alt="MySql" title="MySql" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="TailwindCss" title="TailwindCss" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
 <br/>
 <br/>
-
 
 ### 📊 Estatisticas
 
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guibenat&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibenat&layout=compact&theme=dark" />
+</div>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=guibenat&theme=dark)
-    
