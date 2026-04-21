@@ -24,8 +24,8 @@ Me chamo Guilherme Benatte, tenho 18 anos e estou iniciando minha carreira como 
 
 <div align="left">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=guibenat&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibenat&layout=compact&theme=gotham" />
   <img height="120em" src="https://streak-stats.demolab.com?user=guibenat&theme=gotham" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibenat&layout=compact&theme=gotham" />
 </div>
 
 <br/>
@@ -54,18 +54,14 @@ Me chamo Guilherme Benatte, tenho 18 anos e estou iniciando minha carreira como 
   <tr>
     <td>
       <a href="https://github.com/guibenat/Projeto-Lires">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=guibenat&repo=Projeto-Lires&theme=gotham" />
+        <img height="190em" src="https://github-readme-stats.vercel.app/api/pin/?username=guibenat&repo=Projeto-Lires&theme=gotham" />
       </a>
     </td>
     <td>
       <a href="https://github.com/guibenat/procinFrontend">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=guibenat&repo=procinFrontend&theme=gotham" />
+        <img height="190em" src="https://github-readme-stats.vercel.app/api/pin/?username=guibenat&repo=procinFrontend&theme=gotham" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/guibenat/javaPOO">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=guibenat&repo=javaPOO&theme=gotham" />
-      </a>
     </td>
   </tr>
 </table>
