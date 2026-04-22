@@ -23,9 +23,9 @@ Me chamo Guilherme Benatte, tenho 18 anos e estou iniciando minha carreira como 
 ### 📊 Estatísticas
 
 <div align="left">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=guibenat&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
-  <img height="120em" src="https://streak-stats.demolab.com?user=guibenat&theme=gotham" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibenat&layout=compact&theme=gotham" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guibenat&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://streak-stats.demolab.com?user=guibenat&theme=gotham" />
+  
 </div>
 
 <br/>
