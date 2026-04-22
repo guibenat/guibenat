@@ -47,21 +47,3 @@ Me chamo Guilherme Benatte, tenho 18 anos e estou iniciando minha carreira como 
 
 <br>
 <br>
-
-### 📌 Projetos destaque
-
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://github.com/guibenat/Projeto-Lires">
-        <img height="190em" src="https://github-readme-stats.vercel.app/api/pin/?username=guibenat&repo=Projeto-Lires&theme=gotham" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/guibenat/procinFrontend">
-        <img height="190em" src="https://github-readme-stats.vercel.app/api/pin/?username=guibenat&repo=procinFrontend&theme=gotham" />
-      </a>
-    </td>
-    </td>
-  </tr>
-</table>
