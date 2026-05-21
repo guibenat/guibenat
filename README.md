@@ -1,31 +1,19 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=00000"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="175" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZkeTFkaGU3MHN4bWZmd2g4Z3VzYTJkbnB3dWRmMzV0bmV1cDhtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vBqTeiXdBZKt90X6an/giphy.gif"  />
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZkeTFkaGU3MHN4bWZmd2g4Z3VzYTJkbnB3dWRmMzV0bmV1cDhtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vBqTeiXdBZKt90X6an/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/guibenatte">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=006AFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-
-  <a href="https://www.instagram.com/benas_dev">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=006AFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
-
-  <a href="guibenattedev@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=006AFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://count.getloli.com/@:guibenat?theme=3d-num&padding=7&scale=0.9&align=top&pixelated=1&darkmode=0"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
 </div>
 
 ###
@@ -34,48 +22,53 @@
 
 ###
 
-<h3 align="left">🧑‍💻  Sobre mim</h3>
-
-###
-
-<p align="left">Olá rede, me chamo Guilherme Benatte!<br><br>- 📚 Ensino técnico em desenvolvimento web na ETEC MCM, Curso de desenvolvimento java no SENAI São Caetano<br>- ⚡ Busco criar conteudo no tempo livre e desenvolver projetos pessoais,  me acompanhe no meu instagram @benas_dev!</p>
-
-###
-
-<h3 align="left">🛠 Stacks</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥 Estatisticas</h3>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=guibenat&locale=pt-br&mode=daily&theme=transparent&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guibenat/guibenat/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guibenat/guibenat/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guibenat/guibenat/output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/guibenat/guibenat/stats-output/stats.svg" height="100" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=guibenat&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="100" alt="streak graph"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=undefined"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guibenat/guibenat/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guibenat/guibenat/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guibenat/guibenat/pacman-output/galaga-contribution-graph.svg">
+</picture>
 
 ###
