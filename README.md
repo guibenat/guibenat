@@ -53,8 +53,9 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/guibenat/guibenat/stats-output/stats.svg" height="100" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=guibenat&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="100" alt="streak graph"  />
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guibenat&theme=tokyonight" height="165" alt="streak stats" />
+</p>
 </div>
 
 ###
