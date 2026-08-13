@@ -98,7 +98,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/guibenat/guibenat/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=guibenat&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
