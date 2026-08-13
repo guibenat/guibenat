@@ -16,9 +16,9 @@
 
 ###
 
-<p align="left">📌Tenho como objetivo me comunicar com o maximo de pessoas,principalmente levando conhecimento, crescer na carreira tech e sempre estar em evolução e me comunicando com colegas da area e trcando conhecimentos.<br>
+<p align="left">
   🧑‍💻Atualmente meu estudo está focado em desenvolvimento back end em java.<br>
-  👨‍🎓Formação técnica etec MCM, formação profissionalizante em java senai SCS.<br>
+  👨‍🎓Formação técnica etec MCM, formação profissionalizante em java senai SCS, graduando em ADS pela SP School<br>
   🏗️Meus principais projetos: Lires(Plataforma educacional de libras).</p>
 
 ###
